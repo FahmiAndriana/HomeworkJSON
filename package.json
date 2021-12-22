@@ -1,8 +1,10 @@
 {
   "name": "myapp",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "Homework",
+  "main": "fahmi.js",
   "scripts": {
+    "start": "node fahmi",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Fahmi Andriana",
@@ -15,5 +17,5 @@
     "type": "git",
     "url": "\u001b[Abelajar JS, HW\u001b[B"
   },
-  "description": "belajar\u001bHomework"
+  
 }
