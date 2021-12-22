@@ -1,0 +1,19 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fahmi Andriana",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "\u001b[Abelajar JS, HW\u001b[B"
+  },
+  "description": "belajar\u001bHomework"
+}
